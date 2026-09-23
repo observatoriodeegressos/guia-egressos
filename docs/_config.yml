@@ -1,6 +1,6 @@
 url: "https://observatoriodeegressos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-baseurl: "/guia" # the subpath of your site, e.g. /blog
+baseurl: "/guia-egressos" # the subpath of your site, e.g. /blog
 
 title: "Guia Observatório de Egressos da RFEPCT - Indicadores" # Nome do sistema ou plataforma
 subtitle: "" #Órgão ou entidade
