@@ -13,6 +13,6 @@ Veja qual é a o nome da próxima página e da anterior e adicione abaixo no for
 
 Este Guia Metodológico apresenta a Plataforma PNP Egressos da Rede Federal de Educação Profissional, Científica e Tecnológica (RFEPCT) como uma plataforma de dados voltada ao acompanhamento da trajetória dos egressos. A plataforma consolida informações educacionais, ocupacionais, acadêmicas e científicas, apoiando a gestão pública orientada por evidências.
 
-A organização da plataforma do Observatório é modular. Os módulos de Empregabilidade, Salários, Empreendedorismo, Trajetória Acadêmica e Produção Acadêmica reúnem indicadores sobre diferentes dimensões da trajetória dos egressos. Cada indicador é documentado por meio de ficha técnica padronizada, com definição operacional, polaridade, fórmula de cálculo, variáveis utilizadas, níveis de agregação, periodicidade e fontes de dados.
+A organização da plataforma do Observatório é modular. Os módulos de Empregabilidade, Salários, Empreendedorismo, Trajetória Acadêmica e Produção Científica reúnem indicadores sobre diferentes dimensões da trajetória dos egressos. Cada indicador é documentado por meio de ficha técnica padronizada, com definição operacional, polaridade, fórmula de cálculo, variáveis utilizadas, níveis de agregação, periodicidade e fontes de dados.
 
 Neste contexto, o Guia oferece ferramentas para facilitar a consulta e a interpretação dos resultados pelos usuários. Use o menu lateral para navegar por todas as abas do guia e conhecer melhor a plataforma do Observatório de Egressos da Rede Federal.

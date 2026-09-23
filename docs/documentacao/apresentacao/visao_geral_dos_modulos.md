@@ -43,7 +43,7 @@ A plataforma é organizada em cinco módulos analíticos. Cada módulo responde 
       <td>Total com trajetória · Taxa de trajetória · Fluxos acadêmicos · Movimentação e permanência</td>
     </tr>
     <tr>
-      <td><a href="{{ "/documentacao/modulos/producao_academica" | relative_url }}"><strong>Produção Acadêmica</strong></a></td>
+      <td><a href="{{ "/documentacao/modulos/producao_cientifica" | relative_url }}"><strong>Produção Científica</strong></a></td>
       <td>Mensura a atividade técnico-científica dos egressos por meio da identificação de produções registradas em bases curriculares e científicas.</td>
       <td>Egressos com Lattes · Total de produção · Egressos com produção · Média de produção</td>
     </tr>
